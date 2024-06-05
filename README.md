@@ -1,12 +1,15 @@
 # Global-Solution-FloodWatch
 
 Sistema de Previsão de Enchentes
+
 Este projeto utiliza técnicas de Machine Learning para prever a probabilidade de enchentes com base em variáveis ambientais. O objetivo é desenvolver um sistema inteligente para a detecção, prevenção e mitigação de catástrofes marinhas.
 
 Propósito do Projeto
+
 O código busca solucionar o problema das enchentes, oferecendo uma ferramenta preditiva capaz de avisar antecipadamente sobre a possibilidade de ocorrência de uma enchente. Isso permite a implementação de medidas preventivas e de mitigação para proteger vidas e propriedades.
 
 Estrutura do Projeto
+
 1. Carregar o Dataset
 Primeiramente, o dataset de enchentes é carregado a partir de um arquivo CSV. Esse dataset contém várias variáveis que influenciam a probabilidade de ocorrência de enchentes.
 
